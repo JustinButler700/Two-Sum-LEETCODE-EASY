@@ -1,4 +1,10 @@
 //Justin Butler 10/22/2021
+/*
+55 / 55 test cases passed.
+Runtime: 1 ms
+Memory Usage: 38.9 MB
+Beats 99% of Java Submissions.
+*/
 class Solution {
     public int[] twoSum(int[] nums, int target) 
     {
